@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'IDCOAuth2Flow-iOS', :exclusive => true do
+  pod "IDCOAuth2Flow-iOS", :path => "../"
+
+  
+end
