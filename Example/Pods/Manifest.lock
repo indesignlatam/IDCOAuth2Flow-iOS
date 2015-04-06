@@ -1,0 +1,14 @@
+PODS:
+  - IDCOAuth2Flow-iOS (0.1.0)
+
+DEPENDENCIES:
+  - IDCOAuth2Flow-iOS (from `../`)
+
+EXTERNAL SOURCES:
+  IDCOAuth2Flow-iOS:
+    :path: ../
+
+SPEC CHECKSUMS:
+  IDCOAuth2Flow-iOS: f26cf725be4e0048cba4cda44cad3e3b1a037972
+
+COCOAPODS: 0.36.3
