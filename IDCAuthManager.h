@@ -56,8 +56,3 @@
 - (void)resignAuthorization;
 
 @end
-
-# warning This can be removed
-@protocol OACSAuthClientConsumer
-- (void)setAuthClient: (AFOAuth2Manager *)client;
-@end

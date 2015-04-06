@@ -115,7 +115,6 @@ static NSString * const K_TOKENPATH     = @"oauth2/access_token";
     [self authorizedOp:op onSuccess:success onFailure:failure retry:YES];
 }
 
-# warning this is the place to do the logout of the servers - Revoke token?
 - (void)resignAuthorization {
     // TODO tell the authorization server to deny the client grant from this user
     //[self.oauthManager clearAuthorizationHeader];
